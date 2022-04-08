@@ -1,6 +1,6 @@
 # profile-project
 
-![Basic profile](https://github.com/WVHS-Webdev/profile-project/screenshot.png)
+![Basic profile](https://github.com/WVHS-Webdev/profile-project/blob/main/screenshot.png)
 
 ### Goal
 
